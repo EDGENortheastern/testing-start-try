@@ -1,0 +1,14 @@
+{
+  "name": "testing-start-try-main",
+  "version": "1.0.0",
+  "description": "testing-start-try",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
